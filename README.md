@@ -74,7 +74,7 @@ This project explores Netflix’s content data to extract actionable insights us
 
 ## 📸 Visual Output Samples
 
-> Inside scoreenshots folder..
+> Inside screenshots folder..
 
 ---
 
