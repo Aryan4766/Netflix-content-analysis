@@ -1,6 +1,7 @@
 # 📈 Netflix Content Strategy Insights Project
 
 This project explores Netflix’s content data to extract actionable insights using data cleaning, processing, visualization, clustering, and sentiment analysis – all developed in a Google Colab notebook. It aims to support strategic decisions in content planning, release timing, and regional focus.
+🚀 Live App: [Click here to launch the app] (https://netflix-content-analysis-xuox47rlk8wuzyl77frota.streamlit.app/)
 
 ---
 
